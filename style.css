@@ -44,7 +44,7 @@ body {
   }
 
   #name{
-    position: absolute;
+    position: relative;
     top: 45%;
     margin-top: 0;
     margin-left: 65px;
@@ -61,7 +61,7 @@ body {
   }
 
   #inf{
-    position: absolute;
+    position: relative;
     top: 49%;
     margin-top: 0;
     margin-left: 65px;
@@ -78,7 +78,7 @@ body {
   }
 
   #web{
-    position: absolute;
+    position: relative;
     top: 52%;
     margin-top: 0;
     margin-left: 40px;
